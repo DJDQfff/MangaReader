@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "MangaReader",
+  "display": "standalone",
+  "name": "MangaReader",
+  "short_name": "MangaReader",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
